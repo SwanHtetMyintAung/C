@@ -1,3 +1,5 @@
-id:0,token:439,name:Admin1,email:admin1@gmail.com,password:Admin1!,trasition_record:You Sent Admin2 A Total Of 10,You Sent Admin3 A Total Of 4,You Sent Admin2 A Total Of 30,You Sent Admin3 A Total Of 10,You Sent Admin3 A Total Of 97,You Sent Admin3 A Total Of 98,You Sent Admin3 A Total Of 99,You Sent Admin3 A Total Of 100,You Sent Admin3 A Total Of 101,You Sent Admin3 A Total Of 102,
-id:1,token:544567129,name:Sent Admin3 A Total Of 21,email:admin2@gmail.com,password:Admin2@,trasition_record:You Received A Total Of 10 From Admin1,You Received A Total Of 30 From Admin1,
-id:2,token:591,name:Admin3,email:admin3@gmail.com,password:Admin3#,trasition_record:You Received A Total Of 4 From Admin1,You Received A Total Of 10 From Admin1,You Received A Total Of 21 From Admin1,
+state:0,id:0,token:470,name:Admin1,email:admin1@gmail.com,password:Admin1!,trasition_record:{0:You Sent Admin3 A Total Of 20:Thu Feb 15 16:56:06 2024},{1:You Sent Admin2 A Total Of 10:Thu Feb 15 16:56:17 2024},
+state:0,id:1,token:510,name:Admin2,email:admin2@gmail.com,password:Admin2@,trasition_record:{0:You Received A Total Of 10 From Admin1:Thu Feb 15 16:56:17 2024},
+state:0,id:2,token:520,name:Admin3,email:admin3@gmail.com,password:Admin3#,trasition_record:{0:You Received A Total Of 20 From Admin1:Thu Feb 15 16:56:06 2024},
+state:0,id:3,token:520,name:Admin4,email:admin4@gmail.com,password:Admin4$,trasition_record:
+state:1,id:4,token:520,name:swan,email:swan@gmail.com,password:Swan2!,trasition_record:
